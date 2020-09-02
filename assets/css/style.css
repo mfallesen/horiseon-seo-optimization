@@ -46,6 +46,18 @@ a {
     text-decoration: none;
 }
 
+a:focus {
+    outline: red solid 3px;
+}
+
+aside:focus {
+    outline: red solid 3px;
+}
+
+main:focus {
+    outline: red solid 3px;
+}
+
 p {
     font-size: 16px;
 }
