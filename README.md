@@ -1,1 +1,3 @@
-# This website 
+# Horiseon Search Engine Optimization services.
+
+This website was made more semantically correct by using the correct semantic HTML tags in place of the standard DIV tags. navigation links were also reworked and given the correct functionality. Css Was also refactored and placed in logical order.  Finally accessibility features were added to items that are relevant to page content and those that were not were left hidden. Keyboard only navigation was also added. 
